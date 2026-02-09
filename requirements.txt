@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+psycopg2-binary
+python-jose[cryptography] # For JWT
+passlib[bcrypt] # For password hashing
+pytest
+google-generativeai
